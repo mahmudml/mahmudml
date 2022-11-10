@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mahmudur Rahman.
 - 👀 I’m interested in Machine Learning, Deep Learning and Data Science.
-- 🌱 I’m currently learning Machine Learning mainly using python.
+- 🌱 I’m currently learning Machine Learning as well Deep Learning mainly using python.
 - 💞️ I’m looking to collaborate on Machine learning, Deep Learning and Data Science projects.
 - My Linkedin Profile could be found at https://www.linkedin.com/in/mahmudur-rahman-802b5752/
 - 📫 How to reach me: email me at mahmud1363@gmail.com

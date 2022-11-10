@@ -2,6 +2,7 @@
 - 👀 I’m interested in Machine Learning, Deep Learning and Data Science.
 - 🌱 I’m currently learning Machine Learning mainly using python.
 - 💞️ I’m looking to collaborate on Machine learning, Deep Learning and Data Science projects.
+- https://www.linkedin.com/in/mahmudur-rahman-802b5752/
 - 📫 How to reach me: email me at mahmud1363@gmail.com
 
 <!---

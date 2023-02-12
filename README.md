@@ -8,6 +8,9 @@ My main focus is on machine learning and deep learning, particularly using Pytho
 Interests:
 I am always eager to learn more about the latest advancements in the field of machine learning and deep learning, and to apply these technologies to solve real-world problems. I am also interested in working on projects that involve large datasets, data visualization, and data analysis.
 
+My Works:
+To see some of my works, feel free to check out my repository on Github. You can find my projects related to machine learning, deep learning, and data science. I am always working on improving my skills and adding new projects to my portfolio, so be sure to check back regularly!
+
 Collaboration:
 I am looking to collaborate on machine learning, deep learning, and data science projects. If you are interested in working together or just want to chat, feel free to reach out to me through my LinkedIn profile or by emailing me at mahmud1363@gmail.com.
 

@@ -1,6 +1,6 @@
 Welcome to my Github Profile!
 
-Hi, I'm Mahmudur Rahman! I am a machine learning and deep learning enthusiast with a passion for using these technologies to solve real-world problems. I am constantly seeking new challenges and opportunities to expand my knowledge and skills in the field of data science.
+Hi, I'm Mahmud Rahman! I am a machine learning and deep learning enthusiast with a passion for using these technologies to solve real-world problems. I am constantly seeking new challenges and opportunities to expand my knowledge and skills in the field of data science.
 
 Skills and Expertise:
 My main focus is on machine learning and deep learning, particularly using Python as my programming language. I have experience in building and deploying various machine learning models, such as linear regression, decision trees, and neural networks. I am also familiar with popular deep learning frameworks such as TensorFlow and Keras.
